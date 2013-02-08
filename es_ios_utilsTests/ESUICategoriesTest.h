@@ -1,2 +1,0 @@
-@interface ESUICategoriesTest : SenTestCase
-@end

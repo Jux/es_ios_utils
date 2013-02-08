@@ -1,2 +1,0 @@
-@interface ESUtilsTest : SenTestCase
-@end

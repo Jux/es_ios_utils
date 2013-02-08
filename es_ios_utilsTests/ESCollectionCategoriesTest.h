@@ -1,2 +1,0 @@
-@interface NSCollectionCategoriesTest : SenTestCase
-@end

@@ -1,2 +1,0 @@
-@interface ESDynamicMethodResolverTest : SenTestCase
-@end

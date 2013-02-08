@@ -1,2 +1,0 @@
-@interface NSCategoriesTest : SenTestCase
-@end
